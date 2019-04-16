@@ -1,0 +1,8 @@
+authtoken: 46hW6mUvAnQtMnqdeUyQK_6H5jWAD7E9qk1AonV2HR9
+tunnels:
+  first:
+    addr: 8081
+    proto: http    
+  second:
+    addr: 8080
+    proto: http

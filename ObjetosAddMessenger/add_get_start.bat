@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d "{'get_started': {'payload': 'GET_STARTED_HISPCOLOMBIA'}}" "https://graph.facebook.com/v2.6/me/messenger_profile?access_token=EAAgbRcTZCQQMBAMTnyxe9wjRDOLFIZBJNJkpl89MZCLh3uYhhvEKa040oI9pWlyyHSRTTqNZBCfgZCu6YhBNHAqwZCZBev9czqV2AWkAYmwOMEWCKiZAl1Ls6Uz5aZAn8ZBwAyKuFQuID15rg9uT37nlCUVpk4g6Mi5WFYie5I0Ve0KwZDZD"
